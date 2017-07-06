@@ -1,0 +1,50 @@
+body{
+	font-family: comicsans;
+	font-size: 15px;
+	background-image: url(../img/fondo.jpg);
+	background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+}
+
+section .contenido{
+	background-color: rgba(0, 0, 0, 0.5);
+
+}
+.primer_articulo{
+	background-color: rgb(255, 233, 248);
+	padding: 10px;
+}
+.segundo_articulo{
+	background-color: rgb(255, 233, 248);
+	padding: 10px;
+}
+.logo{
+	display: block;
+	margin: auto;
+}
+.navegacion{
+	text-align: center;
+
+}
+h6{
+	color: white;
+	text-decoration: underline;
+	font-weight: bold;
+	padding-left: 10px;
+}
+p{
+	text-align: justify;
+}
+a{
+  color: white;
+  font-size: 18px;
+}
+.img_article{
+	display: block;
+	margin: auto;
+}
+.text_footer{
+	color: aliceblue;
+}
